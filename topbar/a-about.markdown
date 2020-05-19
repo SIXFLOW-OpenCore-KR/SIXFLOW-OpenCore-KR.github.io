@@ -18,7 +18,7 @@ permalink: /getting-started/
 
 여러분의 시스템이 macOS를 설치할 준비가 되었다면 부트로더를 생성하기 위한 두 가지 가이드가 준비되어 있습니다
 
-* [OpenCore Desktop Guide](https://sixflow-opencore-kr.github.io/OpenCore-Desktop-Guide-KR/)
+* [OpenCore Desktop Guide](https://sixflow-opencore-kr.github.io/OpenCore-Desktop-Guide/)
   * 데스크탑용 오픈코어 기본 가이드
 * [OpenCore Laptop Guide](https://sixflow-opencore-kr.github.io/vanilla-laptop-guide/)
   * 랩탑용 오픈코어 기본 가이드
