@@ -1,0 +1,9 @@
+title: "OpenCore"
+description: >- # this means to ignore newlines until "baseurl:"
+  Note: 오픈코어 부트로더는 EDKII를 기반으로한 멀티OS 부트로더이며 vit9696을 주축으로 활발히 개발중입니다. ZISQO는 InsanelyHack 디스코드 채널과 식스플로우 디스코드 채널의 admin 그룹에서 활동하며 오픈코어 부트로더 문제 해결을 해결하고 있으며 오픈코어의 보다 쉬운 사용을 위한 가이드를 번역해서 제공하고 있습니다 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ZISQO
+theme: minima
+plugins:
+  - jekyll-feed
