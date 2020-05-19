@@ -7,20 +7,20 @@ permalink: /getting-started/
 
 여러분의 시스템이 macOS를 구동할 시스템 조건에 충족하는지 확인할 수 있는 사이트는 다음과 같습니다
 
-* [GPU Buyers Guide](https://dotarnia.github.io/GPU-Buyers-Guide/)
+* [GPU Buyers Guide](https://sixflow-opencore-kr.github.io/GPU-Buyers-Guide/)
    * macOS 버전별 사용 가능한 GPU 지원 목록
-* [Wireless Buyers Guide](https://dotarnia.github.io/Wireless-Buyers-Guide/)
+* [Wireless Buyers Guide](https://sixflow-opencore-kr.github.io/Wireless-Buyers-Guide/)
   * 무선 랜카드 지원 목록
-* [Anti-Hardware Buyers Guide](https://dotarnia.github.io/Anti-Hackintosh-Buyers-Guide/)
+* [Anti-Hardware Buyers Guide](https://sixflow-opencore-kr.github.io/Anti-Hackintosh-Buyers-Guide/)
   * 구매시 지양해야할 하드웨어 목록
 
 # 오픈코어 부트로더 설치 가이드
 
 여러분의 시스템이 macOS를 설치할 준비가 되었다면 부트로더를 생성하기 위한 두 가지 가이드가 준비되어 있습니다
 
-* [OpenCore Desktop Guide](https://zisqo.github.io/OpenCore-Desktop-Guide-KR/)
+* [OpenCore Desktop Guide](https://sixflow-opencore-kr.github.io/OpenCore-Desktop-Guide-KR/)
   * 데스크탑용 오픈코어 기본 가이드
-* [OpenCore Laptop Guide](https://zisqo.github.io/vanilla-laptop-guide/)
+* [OpenCore Laptop Guide](https://sixflow-opencore-kr.github.io/vanilla-laptop-guide/)
   * 랩탑용 오픈코어 기본 가이드
 
 # 추가사항
